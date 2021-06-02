@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 def get_first_value_of_pixel_list(l):
  """retourne 1 si la liste du pixel l a la valeur 0 (noir)
-  et sinon retourne 0 si la valeur égale à 255(blanc)"""
+  et sinon retourne 0 si la valeur égale à 255 (blanc)"""
   if l[0]==255:
     return 0
   if l[0]==0:
