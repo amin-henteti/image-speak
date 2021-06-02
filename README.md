@@ -1,2 +1,2 @@
-# image-speak
-a program that convert a writting word in an image into a string
+# image-to-string
+a program that convert a mapping to character image into a string
